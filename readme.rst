@@ -186,9 +186,7 @@ This project is licensed under the [MIT License](LICENSE). Feel free to use, mod
 ## Acknowledgments
 
 ---
-We would like to thank the CodeIgniter community and contributors for their valuable work. Special thanks to Bootstrap for providing a fantastic UI framework.
+I would like to thank the CodeIgniter community and contributors for their valuable work. Special thanks to Bootstrap for providing a fantastic UI framework.
 
-Feel free to modify and expand the sections above as needed, incorporating login functionality and updating the user interface using Bootstrap. Make sure to provide clear instructions for any specific features or customizations in your CodeIgniter app. Happy coding!
 ---
 
-Feel free to modify and expand the sections above as needed, incorporating login functionality and updating the user interface using Bootstrap. Make sure to provide clear instructions for any specific features or customizations in your CodeIgniter app. Happy coding!
