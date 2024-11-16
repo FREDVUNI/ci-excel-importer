@@ -8,11 +8,11 @@
    :target: https://getbootstrap.com/
    :alt: Bootstrap Version
 
-.. image:: https://img.shields.io/github/license/FREDVUNI/absoft
-   :target: https://github.com/FREDVUNI/absoft/blob/main/LICENSE
+.. image:: https://img.shields.io/github/license/FREDVUNI/ci-excel-importer
+   :target: https://github.com/FREDVUNI/ci-excel-importer/blob/main/LICENSE
    :alt: MIT License
 
-This repository contains a web application developed using the CodeIgniter PHP framework. The app allows users to import data from Excel spreadsheets into their databases seamlessly. The user interface is built using Bootstrap for a modern and user-friendly experience. The `absoft.sql` file is also included in the repository, containing the necessary database structure.
+This repository contains a web application developed using the CodeIgniter PHP framework. The app allows users to import data from Excel spreadsheets into their databases seamlessly. The user interface is built using Bootstrap for a modern and user-friendly experience. The `ci-excel-importer.sql` file is also included in the repository, containing the necessary database structure.
 
 Getting Started
 ===============
@@ -33,13 +33,13 @@ Follow these steps to set up the application on your local machine:
 
 1. Clone the repository to your local environment::
 
-    git clone https://github.com/FREDVUNI/absoft.git
+    git clone https://github.com/FREDVUNI/ci-excel-importer.git
 
 2. Navigate to the project folder::
 
-    cd absoft
+    cd ci-excel-importer
 
-3. Import the `absoft.sql` file into your MySQL database to create the necessary tables.
+3. Import the `ci-excel-importer.sql` file into your MySQL database to create the necessary tables.
 
 4. Rename the `env.example` file to `.env` and configure your database connection settings::
 
@@ -103,6 +103,6 @@ Acknowledgments
 I would like to thank the CodeIgniter community and contributors for their valuable work. Special thanks to Bootstrap for providing a fantastic UI framework.
 
 .. _Composer: https://getcomposer.org/
-.. _MIT License: https://github.com/FREDVUNI/absoft/blob/main/LICENSE
+.. _MIT License: https://github.com/FREDVUNI/ci-excel-importer/blob/main/LICENSE
 
 ---
