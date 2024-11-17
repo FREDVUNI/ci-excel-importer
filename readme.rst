@@ -94,9 +94,5 @@ We encourage contributions to enhance the functionality and user interface of th
 
 5. Create a pull request to the main repository, providing a detailed explanation of your changes.
 
-License
-=======
-
-This project is licensed under the `MIT License`_, which allows you to use, modify, and distribute the code according to the terms of the license.
 
 
