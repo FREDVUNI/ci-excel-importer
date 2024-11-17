@@ -107,4 +107,3 @@ I would like to thank the CodeIgniter community and contributors for their valua
 .. _Composer: https://getcomposer.org/
 .. _MIT License: https://github.com/FREDVUNI/ci-excel-importer/blob/main/LICENSE
 
----
