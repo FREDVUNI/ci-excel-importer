@@ -99,11 +99,4 @@ License
 
 This project is licensed under the `MIT License`_, which allows you to use, modify, and distribute the code according to the terms of the license.
 
-Acknowledgments
-===============
-
-I would like to thank the CodeIgniter community and contributors for their valuable work. Special thanks to Bootstrap for providing a fantastic UI framework.
-
-.. _Composer: https://getcomposer.org/
-.. _MIT License: https://github.com/FREDVUNI/ci-excel-importer/blob/main/LICENSE
 
