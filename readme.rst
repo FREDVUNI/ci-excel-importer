@@ -14,7 +14,7 @@ Using CodeIgniter to Develop an App for Importing Data from Excel to Databases
    :target: https://github.com/FREDVUNI/ci-excel-importer/blob/main/LICENSE
    :alt: MIT License
 
-This repository contains a web application developed using the CodeIgniter PHP framework. The app allows users to import data from Excel spreadsheets into their databases seamlessly. The user interface is built using Bootstrap for a modern and user-friendly experience. The `ci-excel-importer.sql` file is also included in the repository, containing the necessary database structure.
+This repository contains a web application developed using the CodeIgniter PHP framework. The app allows users to import data from Excel spreadsheets into their databases seamlessly. The user interface is built using Bootstrap for a modern and user-friendly experience. The `absoft.sql` file is also included in the repository, containing the necessary database structure.
 
 Getting Started
 ===============
